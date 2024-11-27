@@ -1,7 +1,7 @@
 
 # Large Language Model-Brained GUI Agents: A Survey
 
-[![Agent-Powered](https://img.shields.io/badge/Agent-Powered-0ABAB5?logo=robot-framework&logoColor=white)](https://vyokky.github.io/LLM-Brained-GUI-Agents-Survey/)
+[![Repository](https://img.shields.io/badge/Agent-Powered-0ABAB5?logo=robot-framework&logoColor=white)](https://vyokky.github.io/LLM-Brained-GUI-Agents-Survey/)
 [![Paper](https://img.shields.io/badge/Paper-arXiv%3A2202.00000-B31B1B.svg)](https://arxiv.org/) 
 [![Website](https://img.shields.io/badge/Website-Searchable%20List-blue.svg)](https://vyokky.github.io/LLM-Brained-GUI-Agents-Survey/)
 [![github](https://img.shields.io/github/stars/microsoft/UFO)](https://github.com/microsoft/UFO)&ensp;
@@ -39,7 +39,7 @@ We encourage the community to contribute to this repository. If you have suggest
 
 To contribute, follow these steps:
 
-1. Go to the `survey` (important) branch of this repository.
+1. Go to the **`survey` (important)** branch of this repository.
 
 1. Find the `documents/docs/survey/data/*.json` file which matches the category of the paper you want to add in the `/data` folder. It should be either `survey`, `framework`, `dataset`, `model`, `benchmark`, `gui-testing`, or `visual-assistant`.
 
