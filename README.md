@@ -17,7 +17,7 @@ Welcome to the repository accompanying our survey paper on **Large Language Mode
 
 ## 📖 Read the Paper: [Large Language Model-Brained GUI Agents: A Survey](https://arxiv.org/).
 <p align="left">
-  <img src="documents/docs/img/gui_agent.png" width="500px"/>
+  <img src="assets/gui_agent.png" width="500px"/>
 </p>
 
 <!-- ### 📚 Cite Our Work
@@ -38,7 +38,7 @@ If you find our work useful, please consider citing:
 
 <p align="left">
   <a href="https://vyokky.github.io/LLM-Brained-GUI-Agents-Survey/">
-    <img src="documents/docs/img/webpage.png" width="500px" alt="Webpage Link"/>
+    <img src="assets/webpage.png" width="500px" alt="Webpage Link"/>
   </a>
 </p>
 
